@@ -65,6 +65,15 @@ Predicted stock prices using Linear Regression on historical financial data. Vis
 
 ---
 
+## 📜 Certifications
+
+- **Advance Learning Algorithm** — DeepLearning.AI & Stanford Online
+- **Python for Data Science, AI & Development** — IBM
+- **Introduction to Java & Object-Oriented Programming** — University of Pennsylvania
+- **Connected Leadership** — Yale University
+
+---
+
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ahmed-mustafa-987740284)
